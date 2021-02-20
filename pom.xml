@@ -87,13 +87,13 @@
 	</dependencies>
         <distributionManagement>
             <snapshotRepository>
-               <id>snapshots</id>
-               <name>fc933276c210-snapshots</name>
+               <id>nexus</id>
+               <name>snapshot1</name>
                <url>http://13.233.163.223:8081/repository/snapshot1/</url>
          </snapshotRepository>
             <repository>
-               <id>central</id>
-               <name>fc933276c210-releases</name>
+               <id>nexus</id>
+               <name>release1</name>
                <url>http://13.233.163.223:8081/repository/release1/</url>
             </repository>
        </distributionManagement>	
